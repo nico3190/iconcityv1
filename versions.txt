@@ -1,6 +1,6 @@
 nico_afk = '1.0.0'
 nico_ammoboxes = '1.0.1'
-nico_deathscreenv2 = '1.0.1'
+nico_deathscreenv2 = '2.0.0'
 nico_doorbell = '1.0.0'
 nico_elevator = '1.0.0'
 nico_fishingv2 = '2.0.0'
